@@ -1,0 +1,3 @@
+[workspace]
+members = ["totp"]
+resolver = "2"
